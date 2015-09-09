@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+	autocrlf = false
+[remote "origin"]
+	url = https://github.com/ajijam/Spring
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://github.com/ajijam/Spring
